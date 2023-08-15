@@ -1,0 +1,94 @@
+body{
+	margin:0px;
+	padding:0px 25px;
+	background-image: url(foto/bgsegitiga.jpg);
+}
+
+
+
+header{
+	background-color:rgba(230, 230, 250,0.8);
+	padding:10px;
+
+}
+
+header p {
+	text-align:center;
+	font-size:60px;
+	color:black;
+	font-family:candara;
+	font-weight: bold italic;	
+	
+}
+
+.kiri{
+	float:left;
+	width:24%;
+
+}
+
+.kanan{
+	float:right;
+	width:74%;	
+	padding-left:20px;
+
+}
+
+.isi1{
+	padding:20px;
+	background-color:rgba(245, 245, 245,0.8);
+	margin-top:20px;
+	text-align:center;
+}
+
+.isi1 p {
+	font-size:20px;
+	color:black;
+	font-family:candara;
+}
+.isi audio{
+	width:100%;
+}
+
+.isi2{
+	padding:1px;
+	background-color:rgba(230, 230, 250);
+	margin-top:20px;
+	
+}
+
+
+.bingkai{
+	background-image:url(kuliner3/bgfood.jpg);
+	margin:4px;
+	padding:10px;
+	font-family:candara;
+	font-weight:bold;
+	font-size:20px;
+	
+}
+.bingkai h1{
+	font-family:monotype corsiva;
+	font-weight: bold italic;	
+	font-size:60px;
+}
+
+.langkah{
+	background-color:rgba(245, 245, 245,0.1);
+	padding-top:10px;
+	margin:0px;
+}
+.langkah p{
+	text-align: justify;
+}
+footer{
+	padding:10px;
+
+}
+footer p {
+	text-align:center;
+	font-size:15px;
+	color:black;
+	font-family:candara;
+	
+}

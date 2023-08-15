@@ -1,0 +1,110 @@
+body{
+	margin:0;
+	padding:0;
+	font-family:poppins;
+}
+.isi{
+	clear:both;
+	overflow:hidden;
+}
+header{
+	overflow:hidden;
+	heigt: 100%;
+}
+.vid-bgrnd{
+	position:absolute;
+	right:0;
+	bottom:0;
+	min-width:100%;
+	min-height:100%;
+}
+.nav-bar{
+	background:rgba(0,0,0,0.5);
+	height:50px;
+	position:absolute;
+	width:100%;
+}
+.menu{
+	text-align:center;
+}
+
+.menu li {
+	display:inline-block;
+	margin:0 10px;	
+	text-align:center;
+}
+.menu li a {
+	font-weight: bold italic;
+	font-family:mv boli;	
+	text-decoration:none;
+	color:#fff;
+	padding: 5px 10px;
+	letter-spacing: 2px;	
+}
+.menu li :hover{
+	color:#f5bb00;
+}
+.judul{
+	position:absolute;
+	top:35%;
+	text-align:center;
+	left:18%;
+}
+.judul h2{
+	color:#fff;
+	font-size:80px;
+	margin:0;
+	font-family:monotype corsiva;
+	font-weight: bold italic;
+}
+.judul h2 span{
+	color:orange;
+	font-family:Kaufmann BT;
+	font-weight: bold italic;
+}
+.judul p {
+	color:#fff;
+	font-size:20px;
+	margin:0;
+	font-weight: bold italic;
+	font-family:mv boli;
+}
+.btn {
+	display: inline-block;
+	margin-top:5%;
+	margin-left:2%;
+	margin-right:2%;
+	background:rgba(0,0,0,0.5);
+	border:0;
+	font-size:22px;
+	text-transform:uppercase;
+	border: 3px solid #fff;
+	padding: 10px 25px;
+	color:#fff;
+	border-radius: 25px;
+
+}
+a .btn  {
+	font-weight: bold italic;
+	font-family:mv boli;
+	text-decoration:none;
+	color:#fff;
+}
+a :hover{
+	color:orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
